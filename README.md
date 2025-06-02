@@ -1,4 +1,4 @@
-<div class="center">
-#Alphaland
+<p align="center">
+# Alphaland
 yes.
-</div>
+</p>
